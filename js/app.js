@@ -56,7 +56,7 @@ const drawPokemon = (name, url) => {
 
     let allPokemon = `
         <div class="card" style="width: 20rem;">
-          <imgsrc = "https://dummyimage.com/150x200"/>
+          <img src = "https://dummyimage.com/150x200"/>
             <div class="card-block">
               <h4 class="card-title">${name}</h4>
                <a href="${url}" class="btn btn-primary">Go somewhere</a>
